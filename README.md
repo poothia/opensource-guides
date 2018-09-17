@@ -1,3 +1,3 @@
-## Welcome to FlOSS ACADEMY
+# Welcome to FlOSS ACADEMY
 
-# Your home for OpenSource guides
+## Your home for OpenSource guides
